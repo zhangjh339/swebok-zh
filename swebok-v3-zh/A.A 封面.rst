@@ -1,0 +1,1 @@
+.. image:: https://github.com/Snowyying/swebok-zh/blob/master/swebok-v3-zh/SWEBOKv3-zh-cover.jpg
